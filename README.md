@@ -1,2 +1,5 @@
-# YourWebsite
-Website templates for download by students in my Version Control class
+# Personal Website Template
+
+Description: A beginner-friendly personal website template with helpful comments.
+
+Fork this repository and edit away!
